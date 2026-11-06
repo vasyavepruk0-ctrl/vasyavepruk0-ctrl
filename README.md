@@ -29,7 +29,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&layout=compact&theme=radical&locale=ru)
 
-![GitHub Streak](https://streak-stats.demolab.com?user={username}&theme=radical&locale=ru)
 
 ---
 
